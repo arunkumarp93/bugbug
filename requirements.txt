@@ -27,7 +27,7 @@ sendgrid==6.9.7
 shap[plots]==0.41.0
 tabulate==0.8.10
 taskcluster==44.18.0
-tenacity==8.0.1
+tenacity==8.1.0
 tqdm==4.64.0
 xgboost==1.6.1
 zstandard==0.18.0
